@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Ambiesoft</RootNamespace>
-    <AssemblyName>GetNumericTextDialog</AssemblyName>
+    <AssemblyName>Ambiesoft.GetNumericTextDialog</AssemblyName>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
